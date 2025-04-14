@@ -10,7 +10,7 @@ To utilize the tools and models provided in this repository, follow these steps:
 
    ```bash
    git clone https://github.com/jachansantiago/NuInsSeg.git
-Install Dependencies:
+## Install Dependencies:
 
 Ensure you have the necessary Python packages installed. You can use the following command:
 
